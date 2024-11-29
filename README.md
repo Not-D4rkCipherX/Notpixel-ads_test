@@ -69,5 +69,3 @@ patchelf --add-needed libpython3.10.so.1.0 pyarmor_runtime_004817/android_aarch6
 ```
 python3.10 main.py
 ```
-
-💥 Full Tutorial In YouTube Channel : <a href="https://youtu.be/wFqosKUHbRc?si=twu9eYVE0LjO03d1">Click Here</a>
