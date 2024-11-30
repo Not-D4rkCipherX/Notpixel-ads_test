@@ -41,7 +41,7 @@ pkg install nano
 git clone https://github.com/Not-D4rkCipherX/Notpixel-ads.git
 ```
 ```
-cd notpixel_auto_watch_ads
+cd Notpixel-ads
 ```
 
 ☣️Copy
