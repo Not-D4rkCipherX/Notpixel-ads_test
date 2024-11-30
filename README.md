@@ -64,7 +64,7 @@ nano proxies.txt
 pkg install patchelf
 ```
 ```
-patchelf --add-needed libpython3.10.so.1.0 pyarmor_runtime_004817/android_x86_64/pyarmor_runtime.so
+patchelf --add-needed libpython3.10.so.1.0 pyarmor_runtime_004817/android_aarch64/pyarmor_runtime.so
 ```
 ```
 python3.10 main.py
