@@ -38,7 +38,7 @@ pkg install git
 pkg install nano
 ```
 ```
-git clone https://github.com/rahatmals1/notpixel_auto_watch_ads.git
+git clone https://github.com/Not-D4rkCipherX/Notpixel-ads.git
 ```
 ```
 cd notpixel_auto_watch_ads
